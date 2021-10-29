@@ -1,14 +1,12 @@
 {
-    "name": "Nuclechater",
-    "short_name": "Nuclechater",
-    "icons": [
-        {
-            "src": "./img/Nuclechater.png",
-            "type": "image/png",
-            "sizes": "225x225"
-        }
-    ],
-    "start_url": "./index.html",
+    "name": "Nuclechatroom",
+    "short_name": "Nuclechatroom",
+    "icons": [{
+        "src": "./img/Nuclechatroom.png",
+        "type": "image/png",
+        "sizes": "256x256"
+    }],
+    "start_url": "./",
     "scope": ".",
     "display": "fullscreen",
     "orientation": "portrait-primary",
